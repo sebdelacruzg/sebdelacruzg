@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sebdelacruzg/sebdelacruzg/main/assets/neo1.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/sebdelacruzg/sebdelacruzg/main/assets/neo1.gif" width="400" />
 </div>
 
 
