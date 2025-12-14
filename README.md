@@ -17,17 +17,15 @@
 </div>
 
 
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tuusuario)
-[![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge)](https://osu.ppy.sh/users/tuusuario)
-[![enka.network](https://img.shields.io/badge/enka.network-4B5563?style=for-the-badge)](https://enka.network/u/tuusuario)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
-
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sebdelacruzg/sebdelacruzg/main/assets/neo1.gif" width="400" />
