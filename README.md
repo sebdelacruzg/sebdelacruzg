@@ -6,7 +6,6 @@
 
 ¡Hola! Soy un apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y construir proyectos que resuelvan problemas reales.
 
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto actual o Tesis]**.
 - 🌱 Estoy aprendiendo sobre **[Tecnología que estudias, ej: Ciberseguridad, React, IA]**.
 - 👯 Busco colaborar en proyectos de **Código Abierto**.
 - 💬 Pregúntame sobre **[Tus temas fuertes, ej: Python, Linux, Redes]**.
@@ -27,19 +26,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight"/>
-</a>
 
 </div>
 
