@@ -11,7 +11,6 @@
 🎓 **Computer Science Student @ UNI**
 💻 **Cybersecurity Enthusiast** 
 ⚔️ **HTB Student** 
-🎮 **Music** • **Games** • **Anime** • **Code**  
 
 </div>
 
