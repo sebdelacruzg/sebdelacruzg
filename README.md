@@ -8,11 +8,10 @@
 
 <div align="center">
 
-🎓 **BSc @ UFMG** • **Back-end Dev** • **Platform Engineer**  
-💻 **System programming languages** • **DevOps**  
-📐 **Software architecture** • **Distributed systems**  
-🎮 **Music** • **Games** • **Anime** • **Code** • **Art**  
-🧁 **Muffin 🐰** • **Cake & Cookie & Pudim & Quindim 🐥🐥**
+🎓 **Computer Science Student @ UNI**
+💻 **Cybersecurity Enthusiast** 
+⚔️ **HTB Student** 
+🎮 **Music** • **Games** • **Anime** • **Code**  
 
 </div>
 
