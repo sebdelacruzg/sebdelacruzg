@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hola,%20soy%20[Tu%20Nombre]&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20%7C%20Estudiante%20%7C%20Entusiasta%20de%20la%20Tecnología&descAlignY=51&descAlign=62"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Mono&size=30&color=39FF14&center=true&lines=%3E_+hola+soy+seb" alt="Typing SVG" />
+  </a>
 </div>
 
 ### 👋 Sobre mí
