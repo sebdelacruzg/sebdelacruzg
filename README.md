@@ -36,7 +36,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/klee.png" width="300" />
+  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/reo1.gif" width="300" />
 </div>
 
 
