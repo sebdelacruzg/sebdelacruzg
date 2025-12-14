@@ -19,12 +19,6 @@
 
 
 <div align="center">
-  <img src="[[https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif](https://media.tenor.com/14806395538056758512/tenor.gif)](https://tenor.com/rNVBYLJHCea.gif)" width="120" />
-</div>
-
-
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tuusuario)
@@ -36,7 +30,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/reo1.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/neo1.gif" width="300" />
 </div>
 
 
