@@ -39,7 +39,7 @@
 <td width="40%" valign="top">
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/cb/1d/2d/cb1d2d90909090909090909090909090.jpg" alt="Art" style="border-radius: 10px; width: 100%;" />
+<img src="[https://i.pinimg.com/originals/cb/1d/2d/cb1d2d90909090909090909090909090.jpg](https://i.pinimg.com/736x/57/a6/61/57a661dae2b5f06a33d1ffe9225c41ae.jpg)" alt="Art" style="border-radius: 10px; width: 100%;" />
 </div>
 
 </td>
