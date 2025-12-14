@@ -1,42 +1,42 @@
-<!-- innng / README.md -->
-<div align="center">
+<!-- s3bx / README.md -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&lines=hi%2C+i'm+s3bx!;cybersecurity+enthusiast!" />
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=39FF14&repeat=true&center=false&vCenter=true&width=600&lines=hi%2C+i'm+s3bx!;cybersecurity+enthusiast!" />
 
----
+<p>
+🦊 ethical hacking • pentesting • breaking things responsibly<br>
+🐾 animal lover • privacy advocate • digital freedom<br>
+🧠 linux • networking • web security • exploitation
+</p>
 
-<div align="center">
+</td>
+<td width="35%" align="right">
 
-🎓 **BSc @ UFMG** • **Back-end Dev** • **Platform Engineer**  
-💻 **System programming languages** • **DevOps**  
-📐 **Software architecture** • **Distributed systems**  
-🎮 **Music** • **Games** • **Anime** • **Code** • **Art**  
-🧁 **Muffin 🐰** • **Cake & Cookie & Pudim & Quindim 🐥🐥**
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="120" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+### 🔐 About me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tuusuario)
-[![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge)](https://osu.ppy.sh/users/tuusuario)
-[![enka.network](https://img.shields.io/badge/enka.network-4B5563?style=for-the-badge)](https://enka.network/u/tuusuario)
-
-</div>
+- Focused on **ethical hacking** and **defensive-aware pentesting**
+- Interested in **Linux internals**, **network security**, and **web exploitation**
+- Strong supporter of **animal rights**, **privacy**, and **open knowledge**
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/assets/klee.png" width="300" />
-</div>
+### 🧰 Tools & Skills
+
+```text
+OS        : Linux (Arch / Kali)
+Web       : HTTP, OWASP Top 10
+Network   : TCP/IP, DNS, VPNs
+Security  : Nmap, Burp Suite, Metasploit
+Languages : Bash, Python, C (learning)
 
