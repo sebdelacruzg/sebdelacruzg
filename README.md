@@ -1,7 +1,7 @@
 <!-- innng / README.md -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=hi%2C+i'm+s3bx!;cybersecurity+enthusiast!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=hi%2C+i'm+s3bas!;cybersecurity+enthusiast!" />
 
 </div>
 
